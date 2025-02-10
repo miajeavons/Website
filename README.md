@@ -5,6 +5,7 @@ Project Title: Sisu Interface - a consultancy business including my work portfol
 Software Used: Html, CSS + Javascript
 
 AI Assistance Log:
+
 Instance 1:  ChatGPT
 Purpose: Help space the 4 photos of the image-grid, making it clickable, adding hover effect. 
 Section of Code: work.html + style.css → .image-grid
